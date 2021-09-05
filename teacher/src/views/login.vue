@@ -15,7 +15,7 @@
               麒麟安全应急响应中心
             </div>
             <div class="desc">
-              感 谢 您 积 极 为 国 产 操 作 系 统 贡 献 安 全
+              感 谢 您 积 极 为 国 产 操 作 系 统 贡 献 安 全 力 量
             </div>
             <el-form ref="loginform" :model="loginform" label-width="80px" :rules="rules">
               <el-form-item label="用户名" prop="userName">
